@@ -28,9 +28,9 @@ pip install -r requirements.txt
 ```
 
 ## Data Load
-- **Data**: The datasets used for model training and evaluation are located in the data folder
+- The datasets used for model training and evaluation are located in the data folder
 
 ## Training
-- **Training**: The training script is executed from the command line using ```python train.py```
+- The training script is executed from the command line using ```python train.py```
 
 
